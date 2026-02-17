@@ -1,0 +1,13 @@
+research_task:
+  description: >
+    Research the topic: {topic}
+  expected_output: >
+    Bullet point research summary
+  agent: researcher
+
+# writer_task:
+#   description: >
+#     Write a short explanation using the research summary.
+#   expected_output: >
+#     Clear paragraph explanation
+#   agent: writer
